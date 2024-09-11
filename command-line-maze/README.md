@@ -1,4 +1,4 @@
-## Hidden Treasure Maze by Nick Cook##
+## Hidden Treasure Maze by Nick Cook
 
 Useful commands:
 cd - Move around
