@@ -1,0 +1,3 @@
+Other than two doors, the room is empty.
+
+Hint: What is right is left and what is left is right. So pick the right path to get you to the right path to go to the left.
